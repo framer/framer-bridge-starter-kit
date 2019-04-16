@@ -37,7 +37,7 @@ If you want to import your own design system, you can replace both files with yo
    env FRAMER_TOKEN=<token> npx framer-cli publish <package-name.framerfx> --new="<Display Name>"
    ```
 
-### 🤖 Using GitHub actions
+## 🤖 Using GitHub actions
 
 If you have access to the [GitHub actions beta](https://github.com/features/actions), you can use this repository to automate the deployment of your Framer package to the store without needing any external services.
 
@@ -66,7 +66,7 @@ If you have access to the [GitHub actions beta](https://github.com/features/acti
 1. In GitHub, navigate to the forked repository and set the `FRAMER_TOKEN` via the GitHub UI for the [`.github/main.workflow`](/.github/main.workflow) publish step (accessible by navigating the file structure on the homepage of the repository).
 1. Push a commit to the `master` branch and watch as the GitHub actions pick up the commit, build the package, publish it to the [Framer Store](https://store.framer.com).
 
-### 🚚 Using CI
+## 🚚 Using CI
 
 As an example of integrating `framer-cli` with an external CI service, there is a small [CircleCI configuration](https://circleci.com/docs/2.0/configuration-reference) included in this repository that builds the package on commit and publishes the given package to the [Framer store](https://store.framer.com) every time a commit is made to the `master` branch.
 
