@@ -1,17 +1,21 @@
 {
-  "main": "dist/index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/react": "^16.4.16",
-    "framer": "^0.10"
-  },
-  "peerDependencies": {
-    "framer": "^0.10",
-    "react": "^16.3.0",
-    "react-dom": "^16.3.0"
-  },
-  "version": "1.0.0",
-  "dependencies": {
-    "styled-components": "^4.2.0"
-  }
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.10"
+	},
+	"peerDependencies": {
+		"framer": "^0.10",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"version": "1.0.0",
+	"dependencies": {
+		"styled-components": "^4.2.0"
+	},
+	"framer": {
+		"id": "a2f12e07-e3ae-4460-bcdb-e54da22947fd"
+	},
+	"author": "Floris Verloop"
 }
