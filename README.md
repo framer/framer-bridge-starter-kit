@@ -9,6 +9,8 @@ This repository links together [folder backed Framer projects](https://framer.gi
 
 ## 🏁 Getting started
 
+**Important: This project uses Shared Colors, a feature only available in Framer X26 or higher.**
+
 #### Cloning
 
 1. [Fork this repository](https://help.github.com/en/articles/fork-a-repo).
