@@ -9,8 +9,8 @@ export const colors = Object.freeze({
     "paneBgDark": "var(--token-9e0626a5-2352-4f3d-a566-b3a1a34194dc, rgb(253, 253, 253))",
     /** rgba(0, 0, 0, 0.1) */
     "paneBorder": "var(--token-7caa12b7-f39b-4537-9c92-99aa1b26b588, rgba(0, 0, 0, 0.1))",
-    /** #56A7CD */
-    "primary": "var(--token-e10fc84d-f05a-43b1-a3fc-dcfb01e5bf90, rgb(86, 167, 205))",
+    /** #7755CC */
+    "primary": "var(--token-e10fc84d-f05a-43b1-a3fc-dcfb01e5bf90, rgb(119, 85, 204))",
     /** #7744CC */
     "primaryDark": "var(--token-a8df0a83-9a4d-4a65-8b97-43d425169d4d, rgb(119, 68, 204))",
     /** #EEEEFF */

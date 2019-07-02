@@ -6,10 +6,12 @@ jobs:
   include:
     - stage: build
       name: "Build"
+      if: branch = master
       script: yarn
       script: npx framer-cli build design-system.framerfx 
 
     - stage: publish
       name: "Publish"
+      if: branch = master
       script: yarn
       script: npx framer-cli publish design-system.framerfx --yes
