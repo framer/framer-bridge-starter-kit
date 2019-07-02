@@ -15,8 +15,8 @@ export const colors = Object.freeze({
     "primaryDark": "var(--token-a8df0a83-9a4d-4a65-8b97-43d425169d4d, rgb(119, 68, 204))",
     /** #EEEEFF */
     "primaryLight": "var(--token-2b6bfc32-829f-4814-be3b-60654e21a30e, rgb(238, 238, 255))",
-    /** #FF4444 */
-    "danger": "var(--token-ef2fa636-c420-4df3-b145-72d3e608a159, rgb(255, 68, 68))",
+    /** #C02A2A */
+    "danger": "var(--token-ef2fa636-c420-4df3-b145-72d3e608a159, rgb(192, 42, 42))",
     /** #FF3344 */
     "dangerDark": "var(--token-09721c23-f483-439c-b215-c944db4cb740, rgb(255, 51, 68))",
     /** #FFDDDD */

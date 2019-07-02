@@ -1838,7 +1838,7 @@
         "__class" : "ColorTokenNode",
         "id" : "ef2fa636-c420-4df3-b145-72d3e608a159",
         "name" : "danger",
-        "value" : "rgb(255, 68, 68)"
+        "value" : "rgb(192, 42, 42)"
       },
       "ef047df5-f7ea-4b13-9a0c-c74f0fbe895f" : {
         "__class" : "ColorTokenNode",
