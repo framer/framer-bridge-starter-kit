@@ -99,11 +99,6 @@ esutils@^2.0.2:
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.2.tgz#0abf4f1caa5bcb1f7a9d8acc6dea4faaa04bac9b"
   integrity sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs=
 
-"framer@^0.10 || ^1":
-  version "1.0.15"
-  resolved "https://registry.yarnpkg.com/framer/-/framer-1.0.15.tgz#cd9afa540b41a882f8e11300bfb79f7aaaf94046"
-  integrity sha512-nX1Oay2ZviLssKmes/6Fxbp4AKZ4i25tq/5ibRkXabMdHlQ+IM6ndfhLFeUmdAml2BeiTR/W/Qzytta2c0QsKg==
-
 has-flag@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-3.0.0.tgz#b5d454dc2199ae225699f3467e5a07f3b955bafd"

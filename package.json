@@ -14,5 +14,8 @@
     "react-dom": "^16.8.6",
     "styled-components": "^4.2.0",
     "typescript": "^3.4.3"
+  },
+  "devDependencies": {
+    "framer-cli": "^1.5.6"
   }
 }
