@@ -1,7 +1,8 @@
+
+**Update: Framer Bridge will be deprecated in favor of ES Modules. You can read more here: https://www.framer.com/developers/
+**
+
 # Framer Bridge Starter Kit
-
-Update: Framer Bridge will be deprecated in favor of ES Modules. You can read more here: https://www.framer.com/developers/
-
 
 Framer Bridge is a suite of tools:
 
