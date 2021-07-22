@@ -1,5 +1,8 @@
 # Framer Bridge Starter Kit
 
+Update: Framer Bridge will be deprecated in favor of ES Modules. You can read more here: https://www.framer.com/developers/
+
+
 Framer Bridge is a suite of tools:
 
 - That allows you to automatically publish and distribute components to designers with [Framer](https://framer.com) and the [Framer Store](https://store.framer.com).
